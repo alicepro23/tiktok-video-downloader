@@ -2,11 +2,14 @@
 
 Download TikTok videos without watermark using a fast and secure online tool. No login required, no software installation, and completely free to use.
 
+Project Page:  
+https://sourceforge.net/projects/tikvidly/
+
 ## About This Project
 
 This repository contains a simple HTML page that explains how users can download TikTok videos without watermark quickly and safely.
 
-TikTok has become one of the most popular platforms for short videos, and many users want a simple way to save their favorite clips for offline viewing. A TikTok downloader makes this process easy by allowing users to paste a video link and download it instantly.
+TikTok has become one of the most popular platforms for short videos, and many users want to save their favorite clips for offline viewing. A TikTok downloader makes this process easy by allowing users to paste a video link and download it instantly.
 
 ## Key Features
 
@@ -37,6 +40,12 @@ TikTok has become one of the most popular platforms for short videos, and many u
 
 * TikTok Story Downloader  
   https://tikvidly.com/tiktok-story-downloader/
+
+## Open Source Project
+
+You can also explore this project on SourceForge:
+
+https://sourceforge.net/projects/tikvidly/
 
 ## License
 
