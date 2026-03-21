@@ -3,7 +3,7 @@
 Download TikTok videos without watermark using a fast and secure online tool. No login required, no software installation, and completely free to use.
 
 Project Page:  
-https://sourceforge.net/projects/tikvidly/
+[https://sourceforge.net/projects/tikvidly/](https://sourceforge.net/projects/tiktok-video-downloader-tool/)
 
 ## About This Project
 
