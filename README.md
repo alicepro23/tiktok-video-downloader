@@ -45,7 +45,7 @@ TikTok has become one of the most popular platforms for short videos, and many u
 
 You can also explore this project on SourceForge:
 
-https://sourceforge.net/projects/tikvidly/
+[https://sourceforge.net/projects/tikvidly/](https://sourceforge.net/projects/tiktok-video-downloader-tool/)
 
 ## License
 
